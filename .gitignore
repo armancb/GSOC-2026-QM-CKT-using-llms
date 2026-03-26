@@ -1,0 +1,6 @@
+.env
+data/
+linear-regression.py
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
